@@ -11,7 +11,7 @@
 | **Wash Temp** | `Cold` ($30^\circ\text{C}$ / $86^\circ\text{F}$ or below) |
 | **Cycle** | Gentle / Delicates |
 | **Detergent** | Mild, non-bleach |
-| **Drying** | Air Dry / Line Dry (Preferred) |
+| **Drying** | Air Dry / Print chamber / Line Dry (Preferred) |
 | **Ironing** | Low heat, inside-out (no steam on print) |
 
 ---
