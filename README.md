@@ -38,7 +38,7 @@
 * **Primary Method (Recommended): Air Dry**
   * Hang dry or lay flat out of direct sunlight. Direct UV exposure during drying can cause gradual color degradation.
 
-* **Alternative Primary method••
+* **Alternative Primary method**
   * Set printer heatbed to 40-50C and lay roughly folded shirt on heatbed for 45-60 minutes. Observe VERY carefully to avoid housefires.
 
 * **Secondary Method: Tumble Dry Low**
